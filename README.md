@@ -1,2 +1,2 @@
 # portao-smart
-comande o portão inteligente com senha de segurança 
+Comande o portão inteligente com senha de segurança 
