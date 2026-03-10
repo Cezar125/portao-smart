@@ -1,6 +1,6 @@
 # Comandos TronAcces
 Para saber como configurar a Skill e o App TronAcces envie um email para
-tronsmartportao@gmial.com para receber o material de acesso.
+tronsmartportao@gmail.com para receber o material de acesso.
 Comande o portão inteligente com senha de segurança 
 comandos que você pode usar na Skiil, para falar com a Alexa.
 Fale exatamente como está aqui nos exemplos, porque você sabe se falar uma palavra diferente a Alexa 
@@ -21,8 +21,8 @@ Alexa: Sistema Tron
 Você: Cadastrar usuário como :jam125(Exemplo)
 Alexa: Token alterado para jam125. Deseja fazer mais alguma coisa?
 # Trocar senha
-a senha antiga é {fale a senha antiga}
-A nova senha é {fala a sua senha}
+a senha antiga é {fale a senha antiga} 1234
+A nova senha é {fala a sua senha} Exemplo 25
 # Comandos usados para recupera senha caso que você tenha esquecido.
 Definir pergunta secreta como{cadastre uma pergunta que você vai usar para recuperar a senha, por exemplo qual o seu filme preferido?
 Colocar a resposta secreta como{fale sua resposta secreta} por exemplo filme {Gladiador}
