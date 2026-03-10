@@ -1,8 +1,8 @@
 # Comandos TronAcces
 Para saber como configurar a Skill e o App TronAcces envie um email para
 tronsmartportao@gmail.com para receber o material de acesso.
-Comande o portão inteligente com senha de segurança 
-comandos que você pode usar na Skiil, para falar com a Alexa.
+Comande o portão inteligente com senha de segurança e biometria.
+Comandos que você pode usar na Skill, para falar com a Alexa.
 Fale exatamente como está aqui nos exemplos, porque você sabe se falar uma palavra diferente a Alexa 
 já não entende.
 # Primeiro acesso a Skill TronAccess
