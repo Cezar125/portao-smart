@@ -24,28 +24,28 @@ Você: Cadastrar usuário como :jam125(Exemplo)
 Alexa: Token alterado para jam125. Deseja fazer mais alguma coisa?
 Você: Abrir portão lateral 
 vai aparecer a mensagem 
-Para utilizar essa skill é necessário ter o aplicativo TronAccess. Envie um email paara tronsmartportao@gmail.com
+Para utilizar essa skill é necessário ter o aplicativo TronAccess. Envie um email para tronsmartportao@gmail.com
 Solicitando a liberação da Skill e acesso ao App.
 Porque essa skill trabalha junto com o App TronAccess no Play Store e no momento o app está na fase beta. 
 Então envie o email para liberar seu acesso.
 # Acesso liberado
 # Trocando a senha de fábrica
-Sempre para acionar a skill deiga Alexa "Sistema Tron", e para fechar a Skill diga "Encerrar"
+Sempre para acionar a skill diga Alexa "Sistema Tron", e para fechar a Skill diga "Encerrar"
 Alexa: Sistema Tron
 Você: Trocar a senha
 Alexa: Para trocar a senha, diga a senha antiga. Exemplo "Minha senha antiga é" Exemplo 1234 a senha de fábrica no momento.
 MInha senha antiga é {fale a senha antiga} 1234
-Alexa: SEnha antiga confirmada. Qual será a nova senha?
+Alexa: Senha antiga confirmada. Qual será a nova senha?
 Minha nova senha é {fala a sua senha} Exemplo 45
 Alexa: Senha alterada com sucesso.
-Essa senha será usada para abrir os portões com senha. Você pode altera-la sempre que quizer.
+Essa senha será usada para abrir os portões com senha. Você pode alterá-la sempre que quizer.
 # Comandos usados para recupera senha caso que você tenha esquecido.
 Entre no sistema Alexa: Sistema Tron
 Você: Esqueci a senha
 Alexa: Você ainda não cadastrou uma pergunta e resposta secreta. Use o comando definir pergunta secreta e
 depois definir resposta secreta. Deseja fazer mais alguma coisa?
 Você: Definir pergunta secreta como: Qual o meu filme preferido?
-Alexa: Pergunta secreta cadastrada. Agora cadastre seua resposta sereta. 
+Alexa: Pergunta secreta cadastrada. Agora cadastre seua resposta secreta. 
 Definir pergunta secreta como:{cadastre uma pergunta que você vai usar para recuperar a senha, por exemplo: Qual o seu filme preferido?
 Comando: Definir pergunta secreta como: Qual o meu filme preferido?
 Alexa: Pergunta secreta cadastrada: Qual o meu filme preferido. Deseja fazer mais alguma coisa?
@@ -54,7 +54,7 @@ Você: Colocar resposta secreta como: Gladiador
 Alexa: Para definir a resposta secreta, diga primeiro a senha atual.
 Você:  MInha senha atual é 45.
 Alexa: Senha verificada. Qual será a nova resposta secreta?
-Você: Minha novoa resposta secreta é: Gladiador
+Você: Minha nova resposta secreta é: Gladiador
 Alexa: Resposta secreta cadastrada com sucesso. Deseja fazer mais alguma coisa?
 encerrar
 # Como recuperar a senha para abrir os portões
