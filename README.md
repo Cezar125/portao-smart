@@ -17,7 +17,7 @@ Alexa: Cadastro concluido. Nome Jam Menezes, telefone 19999999999.
 # Agora vamos cadastrar seu Token secreto
 O token secreto será a palavra chave que você será identificado no sistema, não passe para ninguém.
 Exemplo de tokens: jam456, paulo234, vera678. 
- Agora Abra o sistema tron dizendo
+Agora Abra o sistema tron dizendo
 Alexa: Sistema Tron
 Você: Cadastrar usuário como :jam125(Exemplo)
 Alexa: Token alterado para jam125. Deseja fazer mais alguma coisa?
