@@ -1,5 +1,6 @@
 # Comandos TronAcces
-Para saber como configurar a Skill e o App TronAcces envie um email para
+Essa skill funciona em conjunto com o App TronAccess que está na fase beta de testes no Play Store.
+Para saber como configurar a Skill e liberar seu acesso ao app TronAcces envie um email para
 tronsmartportao@gmail.com para receber o material de acesso.
 Comande o portão inteligente com senha de segurança e biometria.
 Comandos que você pode usar na Skill, para falar com a Alexa.
