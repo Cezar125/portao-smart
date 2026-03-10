@@ -40,8 +40,28 @@ Minha nova senha é {fala a sua senha} Exemplo 45
 Alexa: Senha alterada com sucesso.
 Essa senha será usada para abrir os portões com senha. Você pode altera-la sempre que quizer.
 # Comandos usados para recupera senha caso que você tenha esquecido.
-Definir pergunta secreta como{cadastre uma pergunta que você vai usar para recuperar a senha, por exemplo qual o seu filme preferido?
-Colocar a resposta secreta como{fale sua resposta secreta} por exemplo filme {Gladiador}
-# Cadastrar seu dispositvo
-O dispositivo tem que estar cadastrado no Voice Monkey
-Mudar dispositivo para{fale o nome do seu dispositivo} por exemplo teste001, portão25.
+Entre no sistema Alexa: Sistema Tron
+Você: Esqueci a senha
+Alexa: Você ainda não cadastrou uma pergunta e resposta secreta. Use o comando definir pergunta secreta e
+depois definir resposta secreta. Deseja fazer mais alguma coisa?
+Você: Definir pergunta secreta como: Qual o meu filme preferido?
+Alexa: Pergunta secreta cadastrada. Agora cadastre seua resposta sereta. 
+Definir pergunta secreta como:{cadastre uma pergunta que você vai usar para recuperar a senha, por exemplo: Qual o seu filme preferido?
+Comando: Definir pergunta secreta como: Qual o meu filme preferido?
+Alexa: Pergunta secreta cadastrada: Qual o meu filme preferido. Deseja fazer mais alguma coisa?
+Agora cadastre sua resposta secreta
+Você: Colocar resposta secreta como: Gladiador
+Alexa: Para definir a resposta secreta, diga primeiro a senha atual.
+Você:  MInha senha atual é 45.
+Alexa: Senha verificada. Qual será a nova resposta secreta?
+Você: Minha novoa resposta secreta é: Gladiador
+Alexa: Resposta secreta cadastrada com sucesso. Deseja fazer mais alguma coisa?
+encerrar
+# Como recuperar a senha para abrir os portões
+Você: Sistema Tron
+Você: Alexa esqueci a senha.
+alexa: Pergunta secreta: Qual o meu filme preferido? Qual é a resposta?
+Você: A minha resposta secreta é Gladiador
+Alexa: Resposta correta. Sua senha atual é 45. Deseja fazer mais alguma coisa?
+"Encerrar"
+Sempre use o comando "Encerrar para sair do sistema ou se der algum erro, e retorne ao sistema novamenta usando "Alexa: Sistema Tron"
